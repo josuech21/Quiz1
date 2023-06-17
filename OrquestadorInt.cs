@@ -111,7 +111,7 @@ namespace Capa_Logica.Lista_Simple
         }
 
 
-        public void PosicionarYBorrar(int valor, int cantidad)
+        public void Posicionar_Y_Borrar(int valor, int cantidad)
         {
             if (cabeza == null)
             {
