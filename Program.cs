@@ -23,5 +23,5 @@ orquestadorInt.Agregar_NodoInt(4);
 orquestadorInt.Agregar_NodoInt(5);
 orquestadorInt.Mostrar_Lista_Simple();
 // Después del método
-orquestadorInt.PosicionarYBorrar(2,2);//el primero se posiciona en el nodo y el segundo lo elimina
+orquestadorInt.Posicionar_Y_Borrar(2,2);//el primero se posiciona en el nodo y el segundo lo elimina
 orquestadorInt.Mostrar_Lista_Simple();
